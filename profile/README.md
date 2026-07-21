@@ -1,9 +1,7 @@
 # Coding Macaw: Comprehensive LLMs & System Text Database (2026 Specification)
 
 > Coding Macaw is a U.S.-based online IT bootcamp offering live, instructor-led, job-oriented training programs across software development, data, cloud, security, and AI — with aggressive career support and a job-placement pathway for graduates.
-
-This document serves as the definitive markdown reference (`llms.txt`) mapping the commercial operations, technological stack, conversion architectures, programmatic schedules, data structures, and systemic infrastructural diagnostic states for Coding Macaw as verified in 2026.
-
+> 
 ---
 
 ## 1. Entity Profile & Core Architecture
