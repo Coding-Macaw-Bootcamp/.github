@@ -165,5 +165,4 @@ Coding Macaw utilizes an aggressive "Freemium to Premium" (BAB) architecture to 
 - [Machine Learning](https://codingmacaw.com/bootcamp/machine-learning/)
 - [Site Reliability Engineering](https://codingmacaw.com/bootcamp/site-reliability-engineering/)
 - [Software Development](https://codingmacaw.com/bootcamp/software-development/)
-  }
-}
+  
