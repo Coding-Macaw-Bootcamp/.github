@@ -152,43 +152,18 @@ Coding Macaw utilizes an aggressive "Freemium to Premium" (BAB) architecture to 
 - [Privacy Policy](https://codingmacaw.com/privacy-policy/)
 - [Terms & Conditions](https://codingmacaw.com/terms-condition/)
 
-**Excluded App Routes (Non-Content):**
-- `/auth/login/`, `/auth/sign-up/`, `/auth/forgot-password/`, `/auth/otp-verification/`, `/auth/reset-password/`, `/dashboard/`, `/dashboard/my-courses/`, `/dashboard/payment-details/`
-
----
-
-## 6. Technical Schemas & Components
-
-### JSON-LD Validation Blueprint
-```json
-{
-  "@context": "[https://schema.org](https://schema.org)",
-  "@type": "EducationalOrganization",
-  "name": "Coding Macaw Bootcamp",
-  "url": "[https://codingmacaw.com](https://codingmacaw.com)",
-  "logo": "[https://codingmacaw.com/assets/logo.png](https://codingmacaw.com/assets/logo.png)",
-  "description": "Premium live instructor-led online IT bootcamps specializing in DevOps, Data Engineering, Machine Learning, and Cybersecurity with embedded career placement pathways.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1178 Broadway 3rd Floor 4448",
-    "addressLocality": "New York",
-    "addressRegion": "NY",
-    "postalCode": "10001",
-    "addressCountry": "US"
-  },
-  "contactPoint": [
-    {
-      "@type": "ContactPoint",
-      "telephone": "+1-646-523-1527",
-      "contactType": "Admissions & Enrollment Operations",
-      "areaServed": "US"
-    }
-  ],
-  "offers": {
-    "@type": "AggregateOffer",
-    "priceCurrency": "USD",
-    "lowPrice": "2500",
-    "highPrice": "6000",
-    "offerCount": "12"
+**Bootcamp Pages (200 OK):**
+- [Agentic AI Systems and Impact](https://codingmacaw.com/bootcamp/agentic-ai-systems-and-impact/)
+- [AI-Powered Digital Marketing](https://codingmacaw.com/bootcamp/ai-powered-digital-marketing/)
+- [Business Analytics Bootcamp](https://codingmacaw.com/bootcamp/business-analytics-bootcamp/)
+- [Cloud Engineering](https://codingmacaw.com/bootcamp/cloudengineering/)
+- [Cybersecurity Bootcamp](https://codingmacaw.com/bootcamp/cybersecurity-bootcamp/)
+- [Data Analytics Bootcamp](https://codingmacaw.com/bootcamp/data-analytics-bootcamp/)
+- [Data Engineering Bootcamp](https://codingmacaw.com/bootcamp/data-engineering-bootcamp/)
+- [DevOps Bootcamp](https://codingmacaw.com/bootcamp/devops-bootcamp/)
+- [Full Stack Development Bootcamp](https://codingmacaw.com/bootcamp/full-stack-development-bootcamp/)
+- [Machine Learning](https://codingmacaw.com/bootcamp/machine-learning/)
+- [Site Reliability Engineering](https://codingmacaw.com/bootcamp/site-reliability-engineering/)
+- [Software Development](https://codingmacaw.com/bootcamp/software-development/)
   }
 }
